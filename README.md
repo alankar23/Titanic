@@ -1,4 +1,4 @@
-# Dog Breed Identification
+# Titanic - Machine Learning from Disaster
 ###### Predict survival on the Titanic 
 
 Kaggle Dataset link: https://www.kaggle.com/c/titanic
